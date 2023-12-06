@@ -174,4 +174,69 @@ nav ul li a:hover {
 }
 
 
+submit_buttons {
+    display: inline-block; 
+    height: 36px; 
+    cursor: pointer; 
+    line-height: 27px; 
+    background-color: #F2F2F2; 
+    border: 1px solid #F2F2F2; 
+    border-radius: 2px; 
+    color: #757575; 
+    cursor: default; 
+    font-family: arial, sans-serif; 
+    font-size: 13px; 
+    /* font-weight: bold; */
+    margin: 11px 4px; 
+    min-width: 54px; 
+    padding: 0 16px; 
+    text-align: center; 
+}
+
+.submit_buttons { 
+    position: relative; 
+    left: 25%; 
+    right: -50%; 
+    cursor: pointer; 
+}
+
+.submit_buttons:hover {
+    border: .7px solid #d0d0d0; 
+    color: #000000; 
+    box-shadow: 0px 1px 4px #E4E4E4;
+}
+
+/* Footer */ 
+
+.l_ftr {
+    float: left; 
+}
+
+.r_ftr {
+    float: right; 
+}
+
+footer {
+    line-height: 0px; 
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    bottom: 0;   
+    color: #666666; 
+    background-color: #F2F2F2; 
+    border-top: solid 1px #E4E4E4; 
+}
+
+footer a {
+  text-decoration: none;
+  color: #000000;
+  opacity: 0.95;
+  
+}
+
+footer a:hover {
+  text-decoration-line: underline;
+}
+
+
 
