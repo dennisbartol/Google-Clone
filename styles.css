@@ -52,3 +52,67 @@ nav ul li a:hover {
     padding-left: 8px; 
     margin-top: 23px; 
 }
+
+
+/* Navigation right items */ 
+.r_nav {
+    float: right; 
+    position: relative; 
+    padding-top: 0px; 
+    padding-right: 8px; 
+}
+
+.apps {
+    width: 16px; 
+    height: 16px; 
+    margin-top: -2px; 
+    padding-right: 9px; 
+    opacity: 0.75; 
+}
+
+.apps:hover {
+    opacity: 1; 
+    /* background-color:  #f0f0f0; */ 
+    
+  
+}
+
+/* Sign in */ 
+.sign_in {
+    border: 1px solid #4285f4; 
+    outline: none; 
+    background: #4285f4; 
+    display: inline-block; 
+    line-height: 28px; 
+    padding: 0 12px; 
+    border-radius: 2px; 
+}
+
+.sign_in a {
+    font-weight: bold; 
+    color: #ffffff; 
+    opacity: 1; 
+    text-decoration: none;
+}
+
+.sign_in a:hover { 
+    opacity: 1; 
+    text-decoration: none;
+}
+
+.sign_in:hover {
+    opacity: 1; 
+    box-shadow: 0 1.5px 0 0 #e4e4e4; 
+}
+
+/* Center content */
+.cntr_png {
+    position: absolute; 
+    top: 40%; 
+    left: 50%; 
+    margin-right: -50%; 
+    transform: translate(-50%, -50%); 
+}
+
+
+
