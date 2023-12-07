@@ -174,7 +174,7 @@ nav ul li a:hover {
 }
 
 
-submit_buttons {
+.submit_buttons {
     display: inline-block; 
     height: 36px; 
     cursor: pointer; 
