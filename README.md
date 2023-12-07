@@ -1,5 +1,7 @@
 # Google-Clone
 A static -Google- landing page clone. 
 
--Currently, in Beta stage.
+<p>
+-Currently, in Beta stage.</br>
 -Links are currently pointing to Dutch Google pages.
+</p>
