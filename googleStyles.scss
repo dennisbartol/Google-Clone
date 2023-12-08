@@ -47,3 +47,156 @@ nav {
 }
 
 
+footer {
+	padding: 4px 20px;
+	line-height: 0px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	color: $color_5;
+	background-color: $background-color_1;
+	border-top: solid 1px #E4E4E4;
+	a {
+		text-decoration: none;
+		color: $color_1;
+		opacity: 0.95;
+		&:hover {
+			text-decoration-line: underline;
+		}
+	}
+}
+.l_nav {
+	float: left;
+	position: relative;
+	padding-top: 0px;
+	padding-left: 8px;
+	margin-top: 23px;
+}
+.r_nav {
+	float: right;
+	position: relative;
+	padding-top: 0px;
+	padding-right: 8px;
+}
+.apps {
+	width: 16px;
+	height: 16px;
+	margin-top: -2px;
+	padding-right: 9px;
+	opacity: 0.75;
+	&:hover {
+		opacity: 1;
+	}
+}
+.sign_in {
+	border: 1px solid #4285f4;
+	outline: none;
+	background: #4285f4;
+	display: inline-block;
+	line-height: 28px;
+	padding: 0 12px;
+	border-radius: 2px;
+	a {
+		font-weight: bold;
+		color: $color_2;
+		opacity: 1;
+		text-decoration: none;
+		&:hover {
+			opacity: 1;
+			text-decoration: none;
+		}
+	}
+	&:hover {
+		opacity: 1;
+		box-shadow: 0 1.5px 0 0 #e4e4e4;
+	}
+}
+.cntr_png {
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+.logo {
+	margin: auto;
+	margin-bottom: 25px;
+}
+.form {
+	display: block;
+	margin: auto;
+}
+.search_bar {
+	border-radius: 40px;
+	width: 40em;
+	margin: auto;
+	height: 39px;
+	border: .7px solid #E4E4E4;
+	margin-bottom: 20px;
+	outline: none;
+	text-indent: 15px;
+	&:hover {
+		padding-bottom: 2px;
+		padding-top: 1px;
+		margin-top: -1px;
+		width: 40em;
+		box-shadow: 0px 3px 8px #E4E4E4;
+		outline: none;
+	}
+	&:active {
+		padding-bottom: 2px;
+		padding-top: 1px;
+		margin-top: -1px;
+		width: 40em;
+		box-shadow: 0px 3px 8px #E4E4E4;
+		outline: none;
+	}
+}
+.magnify {
+	width: 20px;
+	height: 20px;
+	color: $color_3;
+	position: relative;
+	left: 3%;
+	top: 35px;
+	z-index: 3;
+	opacity: 0.40;
+}
+.mic {
+	width: 26px;
+	height: 32px;
+	position: relative;
+	left: 88%;
+	top: 39px;
+	z-index: 3;
+}
+.submit_buttons {
+	display: inline-block;
+	height: 36px;
+	cursor: pointer;
+	line-height: 27px;
+	background-color: $background-color_1;
+	border: 1px solid #F2F2F2;
+	border-radius: 2px;
+	color: $color_4;
+	cursor: default;
+	font-family: $font-family_1;
+	font-size: 13px;
+	margin: 11px 4px;
+	min-width: 54px;
+	padding: 0 16px;
+	text-align: center;
+	position: relative;
+	left: 25%;
+	right: -50%;
+	cursor: pointer;
+	&:hover {
+		border: .7px solid #d0d0d0;
+		color: $color_1;
+		box-shadow: 0px 1px 4px #E4E4E4;
+	}
+}
+
+
+
