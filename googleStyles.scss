@@ -7,3 +7,43 @@ $font-family_1: arial, sans-serif;
 $background-color_1: #F2F2F2;
 
 
+html {
+	height: 100%;
+	font-size: 100%;
+}
+body {
+	font: 13px arial, sans-serif;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+	line-height: 0px;
+}
+li {
+	display: inline-block;
+	padding: 5px 7px;
+	vertical-align: middle;
+}
+nav {
+	padding: 4px 20px;
+	img {
+		list-style: none;
+		color: $color_1;
+		opacity: 0.86;
+	}
+	a {
+		text-decoration: none;
+		color: $color_1;
+	}
+	ul {
+		li {
+			a {
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+}
+
+
