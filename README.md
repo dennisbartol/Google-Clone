@@ -7,5 +7,3 @@ A static ·Google· landing page clone.
 </p>
 
 
-Disclaimer:</br> 
-This project is not associated with the original, and was only created for educational purposes.
