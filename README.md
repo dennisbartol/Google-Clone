@@ -2,8 +2,7 @@
 A static ·Google· landing page clone. 
 
 <p>
--Currently, in Beta stage.</br>
--Links are currently pointing towards Dutch Google pages.
+Links point towards Dutch Google pages.
 </p>
 
 
