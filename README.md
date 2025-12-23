@@ -2,7 +2,7 @@
 A static ·Google· landing page clone. 
 
 <p>
-Links point towards Dutch Google pages.
+This Google clone points towards Dutch Google pages.
 </p>
 
 
