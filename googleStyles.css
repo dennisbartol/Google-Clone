@@ -13,11 +13,11 @@ ul {
     list-style-type: none;
     padding: 0px; 
     /* line-height: 0px; */
-    line-height: normal; 
+    /* line-height: normal; */
 }
 
 li {
-    display: inline-block; 
+    /* display: inline-block;  */
     padding: 5px 7px; 
     vertical-align: middle;
 }
@@ -61,7 +61,7 @@ nav ul li a:hover {
 
 .l_nav {
     /* float: left;  */
-    position: relative; 
+    /* position: relative; */
     padding-top: 0px; 
     padding-left: 8px; 
     /* margin-top: 23px;  */
@@ -73,7 +73,7 @@ nav ul li a:hover {
 /* Navigation right items */ 
 .r_nav {
     /* float: right;  */
-    position: relative; 
+    /* position: relative;  */
     padding-top: 0px; 
     padding-right: 8px; 
 }
@@ -84,6 +84,7 @@ nav ul li a:hover {
     margin-top: -2px; 
     padding-right: 9px; 
     opacity: 0.75; 
+    cursor: pointer; 
 }
 
 .apps:hover {
@@ -172,7 +173,7 @@ nav ul li a:hover {
     padding-bottom: 2px; 
     padding-top: 1px; 
     margin-top: -1px; 
-    width: 40em; 
+    /* width: 40em; */
     box-shadow: 0px 3px 8px #E4E4E4; 
     outline: none; 
 }
@@ -222,7 +223,7 @@ nav ul li a:hover {
     /* position: relative; */
     position: static; 
     /* left: 25%; */
-    right: -50%; 
+    /* right: -50%; */
     cursor: pointer; 
 }
 
