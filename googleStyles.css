@@ -246,6 +246,11 @@ nav ul li a:hover {
     float: right; 
 } */
 
+.l_ftr, .r_ftr { 
+    display: flex; 
+    gap: 15px
+}
+
 footer {
     /* line-height: 0px; */
     line-height: normal; 
