@@ -157,7 +157,9 @@ nav ul li a:hover {
 .search_bar {
     border-radius: 40px; 
     /* width: 555px; */ 
-    width: 40em; 
+    width: 100%; 
+    max-width: 500px; 
+    /* width: 40em; */
     margin: auto; 
     height: 39px; 
     border: .7px solid #E4E4E4; 
@@ -217,8 +219,9 @@ nav ul li a:hover {
 }
 
 .submit_buttons { 
-    position: relative; 
-    left: 25%; 
+    /* position: relative; */
+    position: static; 
+    /* left: 25%; */
     right: -50%; 
     cursor: pointer; 
 }
