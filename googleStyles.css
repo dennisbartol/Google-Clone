@@ -55,7 +55,7 @@ nav ul li a:hover {
 /* Top Navigation Left */
 
 .l_nav {
-    float: left; 
+    /* float: left;  */
     position: relative; 
     padding-top: 0px; 
     padding-left: 8px; 
@@ -65,7 +65,7 @@ nav ul li a:hover {
 
 /* Navigation right items */ 
 .r_nav {
-    float: right; 
+    /* float: right;  */
     position: relative; 
     padding-top: 0px; 
     padding-right: 8px; 
