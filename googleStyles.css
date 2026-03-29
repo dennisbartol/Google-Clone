@@ -123,11 +123,18 @@ nav ul li a:hover {
 
 /* Center content */
 .cntr_png {
+
+    /*
     position: absolute; 
     top: 40%; 
     left: 50%; 
     margin-right: -50%; 
-    transform: translate(-50%, -50%); 
+    transform: translate(-50%, -50%);  */
+
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    margin-top: 10vh; 
 }
 
 
