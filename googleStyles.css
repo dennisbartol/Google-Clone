@@ -21,6 +21,15 @@ li {
     vertical-align: middle;
 }
 
+
+nav { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 4px 20px;
+}
+    -
+
 nav, footer {
     padding: 4px 20px; 
 }
