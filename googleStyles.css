@@ -28,7 +28,11 @@ nav {
     align-items: center; 
     padding: 4px 20px;
 }
-    -
+
+nav ul {
+    display: flex; 
+    align-items: center; 
+}
 
 nav, footer {
     padding: 4px 20px; 
