@@ -284,9 +284,12 @@ footer a:hover {
     nav { 
         flex-direction: column; 
         align-items: flex-start; 
+        gap: 5px; 
     }
 
-
+    .l_ftr, .r_ftr {
+        flex-direction: row; 
+    }
 
     .r_nav {
       margin-top: 10px; 
