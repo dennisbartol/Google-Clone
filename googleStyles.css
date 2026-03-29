@@ -252,6 +252,10 @@ footer {
     color: #666666; 
     background-color: #F2F2F2; 
     border-top: solid 1px #E4E4E4; 
+
+    display: flex; 
+    justify-content: space-between; 
+    flex-wrap: wrap; 
 }
 
 footer a {
@@ -269,6 +273,11 @@ footer a:hover {
 
 @media (max-width: 600px) {
     nav { 
+        flex-direction: column; 
+        align-items: flex-start; 
+    }
+
+    nav ul {
         flex-direction: column; 
         align-items: flex-start; 
     }
