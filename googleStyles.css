@@ -12,7 +12,8 @@ body {
 ul {
     list-style-type: none;
     padding: 0px; 
-    line-height: 0px; 
+    /* line-height: 0px; */
+    line-height: normal; 
 }
 
 li {
@@ -235,7 +236,8 @@ nav ul li a:hover {
 } */
 
 footer {
-    line-height: 0px; 
+    /* line-height: 0px; */
+    line-height: normal; 
     position: absolute; 
     left: 0; 
     right: 0; 
