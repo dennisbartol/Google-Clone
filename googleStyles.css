@@ -198,7 +198,8 @@ nav ul li a:hover {
     width: 26px; 
     height: 32px; 
     position: relative; 
-    left: 88%; 
+    left: auto;
+    right: 10px; 
     top: 39px; 
     z-index: 3; 
 }
