@@ -5,4 +5,5 @@ A static ·Google· landing page clone.
 This Google clone points towards Dutch Google pages.
 </p>
 
+<p>Update 2026: working towards removing CSS &lt;float&rt; properties.</p>
 
