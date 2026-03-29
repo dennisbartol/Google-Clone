@@ -281,10 +281,7 @@ footer a:hover {
         align-items: flex-start; 
     }
 
-    nav ul {
-        flex-direction: column; 
-        align-items: flex-start; 
-    }
+
 
     .r_nav {
       margin-top: 10px; 
