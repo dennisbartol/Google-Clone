@@ -285,7 +285,8 @@ footer a:hover {
 
 @media (max-width: 600px) {
     nav { 
-        flex-direction: row; 
+        /* flex-direction: row;  */
+        flex-wrap: wrap; 
         align-items: flex-start; 
         gap: 5px; 
     }
