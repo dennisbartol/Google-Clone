@@ -46,7 +46,7 @@ nav, footer {
 /* Top Navigation */
 
 nav img {
-    list-style: none;
+   /*  list-style: none; */
     color: #000000; 
     opacity: 0.86; 
 }
