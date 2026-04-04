@@ -257,10 +257,11 @@ double .submit-buttons removed! */
 footer {
     /* line-height: 0px; */
     line-height: normal; 
-    position: absolute; 
+    /* position: absolute;  */
+    margin-top: auto;
     left: 0; 
     right: 0; 
-    bottom: 0;   
+    /* bottom: 0;   */
     color: #666666; 
     background-color: #F2F2F2; 
     border-top: solid 1px #E4E4E4; 
