@@ -224,15 +224,11 @@ nav ul li a:hover {
     min-width: 54px; 
     padding: 0 16px; 
     text-align: center; 
-}
+    cursor: pointer;   
+} 
 
-.submit_buttons { 
-    /* position: relative; */
-    position: static; 
-    /* left: 25%; */
-    /* right: -50%; */
-    cursor: pointer; 
-}
+/* 
+double .submit-buttons removed! */
 
 .submit_buttons:hover {
     border: .7px solid #d0d0d0; 
