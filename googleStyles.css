@@ -9,6 +9,9 @@ html {
 
 body {
     font: 13px arial, sans-serif; 
+    min-height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
 }
 
 /* Navigation Menu */ 
