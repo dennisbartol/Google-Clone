@@ -83,10 +83,12 @@ nav ul li a:hover {
 }
 
 .apps {
-    width: 16px; 
-    height: 16px; 
+    width: 24px; 
+    height: 24px; 
     margin-top: -2px; 
     padding-right: 9px; 
+    flex-shrink: 0; 
+    display: block;
     opacity: 0.75; 
     cursor: pointer; 
 }
