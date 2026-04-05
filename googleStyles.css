@@ -147,7 +147,7 @@ nav ul li a:hover {
     align-items: center; 
     margin-top: 10vh; 
     /* width: 100%;  Veroorzaakt verschuiving op rechts */    
-    max-width: 500px; 
+    /* max-width: 500px; */
 }
 
 .search-wrapper {
