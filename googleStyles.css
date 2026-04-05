@@ -201,9 +201,9 @@ nav ul li a:hover {
     margin-right: 10px; 
     display: flex; 
     align-items: center; 
-    left: 3%; 
+    /* left: 3%; 
     top: 35px; 
-    z-index: 3; 
+    z-index: 3;  */
     opacity: 0.40; 
 }
 
@@ -216,8 +216,8 @@ nav ul li a:hover {
     display: flex; 
     align-items: center; 
     /* right: 10px; */
-    top: 39px; 
-    z-index: 3; 
+    /* top: 39px; 
+    z-index: 3;  */
 }
 
 
