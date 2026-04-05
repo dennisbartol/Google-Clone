@@ -184,7 +184,7 @@ nav ul li a:hover {
     max-width: 500px; 
     /* width: 40em; */
     flex: 1;
-    margin: auto; 
+    margin: 0; 
     height: 39px; 
     border: .7px solid #E4E4E4; 
     margin-bottom: 20px; 
