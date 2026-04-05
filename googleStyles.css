@@ -210,9 +210,12 @@ nav ul li a:hover {
 .mic {
     width: 26px; 
     height: 32px; 
-    position: relative; 
-    left: auto;
-    right: 10px; 
+    /* position: relative; */
+    margin-left: 10px;
+    cursor: pointer; 
+    display: flex; 
+    align-items: center; 
+    /* right: 10px; */
     top: 39px; 
     z-index: 3; 
 }
