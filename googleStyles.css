@@ -146,11 +146,20 @@ nav ul li a:hover {
     flex-direction: column; 
     align-items: center; 
     margin-top: 10vh; 
-    /* width: 100%;  Veroorzaakt verschuiving op rechts /*
+    /* width: 100%;  Veroorzaakt verschuiving op rechts */    
     max-width: 500px; 
-    
 }
 
+.search-wrapper {
+    display: flex; 
+    align-items: center; 
+    width: 100%;
+    max-width: 500px; 
+    border: 1px solid #E4E4E4; 
+    border-radius: 40px; 
+    padding: 8px 15px;
+
+}
 
 .logo {
     /* display: 100%;  */ 
