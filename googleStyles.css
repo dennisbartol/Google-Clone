@@ -188,7 +188,10 @@ nav ul li a:hover {
     height: 39px; 
     border: .7px solid #E4E4E4; 
     margin-bottom: 20px; */
+    border: none; 
     outline: none; 
+    margin: 0; 
+    height: auto; 
     /* text-indent: 15px; */
 }
 
