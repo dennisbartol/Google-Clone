@@ -178,18 +178,18 @@ nav ul li a:hover {
 }
 
 .search_bar {
-    border-radius: 40px; 
-    /* width: 555px; */ 
+    /* border-radius: 40px; 
+    width: 555px; */ 
     width: 100%; 
-    max-width: 500px; 
+    /* max-width: 500px; */
     /* width: 40em; */
     flex: 1;
-    margin: 0; 
+    /* margin: 0; 
     height: 39px; 
     border: .7px solid #E4E4E4; 
-    margin-bottom: 20px; 
+    margin-bottom: 20px; */
     outline: none; 
-    text-indent: 15px; 
+    /* text-indent: 15px; */
 }
 
 .search_bar:hover, .search_bar:active {
