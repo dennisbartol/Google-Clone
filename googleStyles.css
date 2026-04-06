@@ -341,6 +341,10 @@ footer a:hover {
       margin-top: 10px; 
     }
 
+    .logo { 
+          margin: auto; 
+    }
+
     .search_wrapper {
         width: 90%; 
     }
