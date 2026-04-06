@@ -1,4 +1,4 @@
-* { 
+* {h
     box-sizing: border-box; 
 }
 
@@ -189,7 +189,7 @@ nav ul li a:hover {
 .search_bar {
     /* border-radius: 40px; 
     width: 555px; */ 
-    width: 100%; 
+    /* width: 100%; */
     /* max-width: 500px; */
     /* width: 40em; */
     flex: 1;
