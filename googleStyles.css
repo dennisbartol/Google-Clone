@@ -171,10 +171,7 @@ nav ul li a:hover {
 }
 
 .logo {
-    /* display: 100%;  */ 
-    /* height: 92px; 
-    width: 272px;  */
-    /* display: block;  */ 
+
     margin: auto; 
     margin-bottom: 25px; 
 }
@@ -187,40 +184,18 @@ nav ul li a:hover {
 }
 
 .search_bar {
-    /* border-radius: 40px; 
-    width: 555px; */ 
     width: 100%; 
-    /* max-width: 500px; */
-    /* width: 40em; */
     flex: 1;
-    /* margin: 0; 
-    height: 39px; 
-    border: .7px solid #E4E4E4; 
-    margin-bottom: 20px; */
     border: none; 
     outline: none; 
     margin: 0; 
     height: auto; 
-    /* text-indent: 15px; */
 }
-
-/* => :hover naar .search-wrapper */ 
-
-/* .search_bar:hover, .search_bar:active {
-    padding-bottom: 2px; 
-    padding-top: 1px; 
-    margin-top: -1px; 
-    width: 40em;
-    box-shadow: 0px 3px 8px #E4E4E4; 
-    outline: none; 
-} */
-
 
 .magnify {
     width: 20px; 
     height: 20px; 
     color: #F2F2F2; 
-    /* position: relative;  */
     margin-right: 10px; 
     display: flex; 
     align-items: center; 
@@ -233,14 +208,10 @@ nav ul li a:hover {
 .mic {
     width: 26px; 
     height: 32px; 
-    /* position: relative; */
     margin-left: 10px;
     cursor: pointer; 
     display: flex; 
     align-items: center; 
-    /* right: 10px; */
-    /* top: 39px; 
-    z-index: 3;  */
 }
 
 
@@ -256,7 +227,6 @@ nav ul li a:hover {
     cursor: default; 
     font-family: arial, sans-serif; 
     font-size: 13px; 
-    /* font-weight: bold; */
     margin: 11px 4px; 
     min-width: 54px; 
     padding: 0 16px; 
@@ -275,30 +245,16 @@ double .submit-buttons removed! */
 
 /* Footer */ 
 
-
-/*
-.l_ftr {
-    float: left; 
-} */
-
-/* 
-.r_ftr {
-    float: right; 
-} */
-
 .l_ftr, .r_ftr { 
     display: flex; 
     gap: 15px
 }
 
 footer {
-    /* line-height: 0px; */
     line-height: normal; 
-    /* position: absolute;  */
     margin-top: auto;
     left: 0; 
     right: 0; 
-    /* bottom: 0;   */
     color: #666666; 
     background-color: #F2F2F2; 
     border-top: solid 1px #E4E4E4; 
