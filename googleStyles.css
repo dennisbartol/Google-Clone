@@ -347,7 +347,8 @@ footer a:hover {
     }
 
     .logo { 
-          margin: auto; 
+        /*  margin: auto; */
+    margin-bottom: 25px;
     }
 
     .search_wrapper {
