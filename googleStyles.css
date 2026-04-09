@@ -359,6 +359,7 @@ footer a:hover {
       /* display: block; */
       margin-bottom: 25px;
       outline: 2px dashed orange;
+     width: 100%;
 }
     }
 
