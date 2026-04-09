@@ -351,15 +351,16 @@ footer a:hover {
     display: flex; 
     flex-direction: column; 
     align-items: center;
-    outline: 2px solid blue;
+    /* outline: 2px solid blue; */
     }
 
     .logo { 
         /*  margin: auto; */
       /* display: block; */
       margin-bottom: 25px;
-      outline: 2px dashed orange;
-     width: 100%;
+      /* outline: 2px dashed orange; */
+     width: 100%;  /* ##width 100 procent loste dé verschuiving naar rechts op ## */
+     
 }
     }
 
