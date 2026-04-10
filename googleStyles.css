@@ -331,6 +331,12 @@ footer a:hover {
 
 
 @media (max-width: 600px) {
+
+    body {
+      min-height: 100dvh;
+
+
+     } 
     nav { 
         /* flex-direction: row;  */
         flex-wrap: wrap; 
